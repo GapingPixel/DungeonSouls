@@ -1,1 +1,0 @@
-return (name != "SKELETON KING" and name != "GIGANTUM SLIME" and name != "FAE BUG" and name != "LADY LAINE"  and name != "MERLIN" and name != "ICE GOLEM" and name != "SOUL GUARDIAN" and name != "JUDGEMENT" and name != "JUDGEMENT II")
